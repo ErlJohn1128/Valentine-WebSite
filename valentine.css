@@ -33,6 +33,13 @@ button {
 
 #pageTwo {
     display: none;
-    font-size: 50px;
+    flex-direction: column;
     text-align: center;
 }
+.yay{
+    font-size: 50px;
+}
+.message{
+
+}
+
